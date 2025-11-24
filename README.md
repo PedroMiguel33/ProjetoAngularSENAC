@@ -52,6 +52,13 @@ O objetivo principal é oferecer uma solução prática, organizada e eficiente,
 
 Para rodar o sistema corretamente, você precisa iniciar:
 
+1. Instalação dos Pacotes
+- npm install -g npm@11.1.0 ou npm install
+- npm install -g @angular/cli
+- npm install -g typescript
+- npm install -g json-server
+
+
 1️⃣ O Angular  
 2️⃣ A API de clientes  
 3️⃣ A API de produtos  
