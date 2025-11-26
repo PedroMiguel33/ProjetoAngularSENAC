@@ -6,7 +6,7 @@ O sistema conta com **CRUD completo de Produtos e Clientes**, além de um **Cat�
 O objetivo principal é oferecer uma solução prática, organizada e eficiente, ideal para estudos.
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 - [@Pedro Miguel](https://www.linkedin.com/in/pedroomiguel/)
 - [@Enzo Alvesi](https://www.linkedin.com/in/enzo-alvesi-385726270/)
